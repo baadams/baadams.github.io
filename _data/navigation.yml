@@ -5,6 +5,6 @@ main:
    - title: "Research"
      url: /research/
    - title: "Publications"
-     url: publications/
+     url: /publications/
    - title: "Lab"
-     url: /lap/
+     url: /lab/
