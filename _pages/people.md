@@ -2,7 +2,7 @@
 ---
 layout: splash
 title: "People"
-permalink: /
+permalink: /people/
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
