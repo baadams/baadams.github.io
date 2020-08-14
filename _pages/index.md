@@ -26,5 +26,5 @@ By integrating in-situ field observations with geochemical analyses, multi-modal
 I am a mut from the US, born into a working class family. I am an immigrant citizen of nowhere who goes where the good ideas take me. Academia can be a pretty inhospitable place for many, but we can work to change that. If that resonantes with you and you want to do some tectonic gemorphology, let me know.
 
 # Updates and News
-
-Odysseas publishes his first paper on unsupervised detection of river networks from snythetic aperature radar (SAR) data using computer vision. Check it out here: [IEEE Transactioons on Geoscience and Remote Sensing](http://github.com)
+### August 2020
+Odysseas publishes his first paper on unsupervised detection of river networks from snythetic aperature radar (SAR) data using computer vision. Check it out here: [IEEE Transactioons on Geoscience and Remote Sensing](https://bit.ly/30MT145)
