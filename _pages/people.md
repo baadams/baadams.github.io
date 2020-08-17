@@ -5,55 +5,65 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/banners/2018-06-20 15.38.58_modified_Terrace_Diamond.jpg
-  caption: "Photo: Adams*"
+  overlay_image: assets/images/shapeimage_2.png
+  caption: "Photo: B. A. Adams*"
 excerpt: "Research group memebers"
 
 #intro:
 
-faculty:
-  - image_path: /assets/images/headshots/andy_square_320px.png
-    alt: "Andy Wickert"
-    title: "Andy Wickert"
-    excerpt: "**McKnight Land-Grant Assistant Professor**<br/>
-              Ph.D. 2014 University of Colorado Boulder<br/>
-              S.B. 2008 Massachusetts Institute of Technology
+staff:
+  - image_path: /assets/images/badams.png
+    alt: "Byron A. Adams"
+    title: "Byron A. Adams"
+    excerpt: "**Royal Society Dorothy Hodgkin Fellow **<br/>
+              PhD 2014 Arizona State University<br/>
+              MS  2007 University of Cincinnati<br/>
+              BS  2005 Ball State Univesity
               "
-    #url: "https://www.esci.umn.edu/people/Andy-Wickert"
-    url: "/people/awickert/"
+    #url: "http://www.bristol.ac.uk/earthsciences/people/byron-a-adams/index.html"
+    url: "/people/badams/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  
+
+researchers:
+  - image_path: /assets/images/opappas.png
+    alt: "Odysseas Pappas"
+    title: "Odysseas Pappas"
+    excerpt: "**Research Associate**<br/>
+              PhD  2017 University of Bristol<br/>
+              MEng 2012 University of Bristol
+              "
+    #url: "http://www.bristol.ac.uk/earthsciences/people/odysseas-a-pappas/overview.html"
+    url: "/people/opappas/"
+    btn_label: "About"
+    btn_class: "btn--inverse"
 
 undergrads:
-  - image_path: /assets/images/headshots/blank.jpg
-    alt: "Josie Welsh"
-    title: "Josie Welsh"
+  - image_path: /assets/images/blank.jpg
+    alt: "Celmentine Weash"
+    title: "Clementine Walsh"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
-              *Bed-load sediment sampler design*
+              University of Bristol<br/>
+              *Incision and remobilization of volcanic materials*
               "
-  - image_path: /assets/images/headshots/blank.jpg
-    alt: "Peter Mitchell"
-    title: "Peter Mitchell"
+  - image_path: /assets/images/blank.jpg
+    alt: "Eliana Toro Paz"
+    title: "Eliana Toro Paz"
     excerpt: "**Undergraduate Researcher**<br/>
-              University of Minnesota<br/>
-              *River-terrace mapping*
+              University of Bristol<br/>
+              *The impact of valley morphology on GLOF hazards*
               "
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
 ---
 
 
 
 ## Staff
 
-{% include feature_row id="faculty" %}
+{% include feature_row id="staff" %}
 
-## Graduate Students
+## Researchers
 
-{% include feature_row id="grads" %}
+{% include feature_row id="researchers" %}
 
 ## Undergraduate Students
 
