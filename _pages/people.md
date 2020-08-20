@@ -33,8 +33,7 @@ researchers:
               PhD  2017 University of Bristol<br/>
               MEng 2012 University of Bristol
               "
-    #url: "http://www.bristol.ac.uk/earthsciences/people/odysseas-a-pappas/overview.html"
-    url: "/people/opappas/"
+    url: "http://www.bristol.ac.uk/earthsciences/people/odysseas-a-pappas/overview.html"
     btn_label: "About"
     btn_class: "btn--inverse"
 
@@ -57,24 +56,24 @@ undergrads:
 
 
 
-## Staff
+# Staff
 
 {% include feature_row id="staff" %}
 
-## Researchers
+# Researchers
 
 {% include feature_row id="researchers" %}
 
-## Undergraduate Students
+# Undergraduate Students
 
 {% include feature_row id="undergrads" %}
 
 
-## Former Group Members
+# Former Group Members
 
 ## Graduate Students
 
-#### Person (2016-2018)
-* **MSc, 2019**
-* Blah
-* ***Now:*** this
+#### Dan van Helden (2017-2018)
+* **MSc 2018 University of Bristol (Volcanology)**
+* The complexities of constraining age relationships through geomorphological methods in the San Francisco volcanic field
+* ***Now: Catastrophe Risk Analyst at Canopius Group***
