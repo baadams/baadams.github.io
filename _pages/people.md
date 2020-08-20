@@ -6,13 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/chortens2.jpg
-  caption: "Photo: B. A. Adams*"
+  caption: "The 108 chortens of Dochu La, Bhutan. *Photo: B. A. Adams*"
 excerpt: "Research group memebers"
 
 #intro:
 
 staff:
-  - image_path: /assets/images/badams.png
+  - image_path: /assets/images/badams.jpg
     alt: "Byron A. Adams"
     title: "Byron A. Adams"
     excerpt: "**Royal Society Dorothy Hodgkin Fellow**<br/>
