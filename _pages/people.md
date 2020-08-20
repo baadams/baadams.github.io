@@ -39,14 +39,14 @@ researchers:
     btn_class: "btn--inverse"
 
 undergrads:
-  - image_path: /assets/images/blank.jpg
+  - image_path: /assets/images/blank.png
     alt: "Celmentine Weash"
     title: "Clementine Walsh"
     excerpt: "**Undergraduate Researcher**<br/>
               University of Bristol<br/>
               *Incision and remobilization of volcanic materials*
               "
-  - image_path: /assets/images/blank.jpg
+  - image_path: /assets/images/blank.png
     alt: "Eliana Toro Paz"
     title: "Eliana Toro Paz"
     excerpt: "**Undergraduate Researcher**<br/>
