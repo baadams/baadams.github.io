@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/shapeimage_2.png
+  overlay_image: /assets/images/IMG_8842_8847_Pano_MtOlymp.jpg
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
