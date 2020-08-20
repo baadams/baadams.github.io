@@ -26,7 +26,7 @@ staff:
     btn_class: "btn--inverse"
 
 researchers:
-  - image_path: /assets/images/opappas.png
+  - image_path: /assets/images/opappas.jpg
     alt: "Odysseas Pappas"
     title: "Odysseas Pappas"
     excerpt: "**Research Associate**<br/>
