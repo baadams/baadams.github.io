@@ -5,7 +5,7 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/chortens.jpg
+  overlay_image: assets/images/chortens2.jpg
   caption: "Photo: B. A. Adams*"
 excerpt: "Research group memebers"
 
@@ -15,7 +15,7 @@ staff:
   - image_path: /assets/images/badams.png
     alt: "Byron A. Adams"
     title: "Byron A. Adams"
-    excerpt: "**Royal Society Dorothy Hodgkin Fellow **<br/>
+    excerpt: "**Royal Society Dorothy Hodgkin Fellow**<br/>
               PhD 2014 Arizona State University<br/>
               MS  2007 University of Cincinnati<br/>
               BS  2005 Ball State Univesity
