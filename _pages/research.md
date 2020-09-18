@@ -22,9 +22,9 @@ Our research connects the lithosphere to the atmosphere through the interactions
 
 ![Fitz Roy](/assets/images/GroupFitzRoy.JPG)
 
-## River mechanics and geomorphic evolution
+## River incision and landscape evolution
 
-<img align="right" src="/assets/images/NetworkGridSchematic.png" alt="RiverNetwork" width="230px">
+<img align="right" src="/assets/images/figure_1_v2.png" alt="RiverEvolve" width="300px">
 
 We work to find...
 
