@@ -7,7 +7,7 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/oly_3.png
+  overlay_image: /assets/images/oly_2.png
   #actions:
   #  - label: "Get started"
   #    url: 
@@ -22,7 +22,7 @@ excerpt: "River dynamics<br/>
 
 Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults and precipitation. 
 
-![Fitz Roy](/assets/images/GroupFitzRoy.JPG)
+![test](/assets/images/test.JPG)
 
 ## River dynamics
 
