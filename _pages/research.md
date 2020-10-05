@@ -22,7 +22,7 @@ excerpt: "River dynamics<br/>
 
 Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults and precipitation. 
 
-<img class="center" src="/assets/images/cycle_5.png" alt="Evolve" width="600px">
+<img src="/assets/images/cycle_5.png" alt="Evolve" width="600px" class="center" >
 
 ## River dynamics
 
