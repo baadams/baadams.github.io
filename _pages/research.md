@@ -22,13 +22,13 @@ excerpt: "River dynamics<br/>
 
 Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults and precipitation. 
 
-<img src="/assets/images/cycle_5.png" alt="Evolve" width="600px" class="centerImage" >
+<img src="/assets/images/cycle_5.png" alt="Evolve" width="600px" align="middle" >
 
 ## River dynamics
 
 How do rivers adjust their width along their trace? How do river incision rates change with changing rainfall and what does this do to topographic relief? How much does rock type influence erosion rates and relief? These are just some of the questions that we are exploring regarding river dynamics.
 
-<img src="/assets/images/smart_rivers.png" alt="River" width="600px" class="centerImage" >
+<img src="/assets/images/smart_rivers.png" alt="River" width="600px" align="middle" >
 
 ### Publications on river dynamics
 
