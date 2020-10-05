@@ -28,7 +28,7 @@ Our research connects the lithosphere to the atmosphere through the interactions
 
 How do rivers adjust their width along their trace? How do river incision rates change with changing rainfall and what does this do to topographic relief? How much does rock type influence erosion rates and relief? These are just some of the questions that we are exploring regarding river dynamics.
 
-<img align="center" src="/assets/images/smart_rivers.png" alt="River" width="600px">
+<img src="/assets/images/smart_rivers.png" alt="River" width="600px" class="center" >
 
 ### Publications on river dynamics
 
