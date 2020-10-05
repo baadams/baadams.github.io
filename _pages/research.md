@@ -22,18 +22,18 @@ excerpt: "River dynamics<br/>
 
 Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults and precipitation. 
 
-![test](/assets/images/test.JPG)
+<img align="center" src="/assets/images/cycle_5.png" alt="Evolve" width="600px">
 
 ## River dynamics
 
-Blah
+How do rivers adjust their width along their trace? How do river incision rates change with changing rainfall and what does this do to topographic relief? How much does rock type influence erosion rates and relief? These are just some of the questions that we are exploring regarding river dynamics.
 
-<img align="right" src="/assets/images/figure_1_v2.png" alt="RiverEvolve" width="300px">
+<img align="center" src="/assets/images/smart_rivers.png" alt="River" width="600px">
 
 ### Publications on river dynamics
 
-* Pappas et al
-* Adams et al
+* Pappas, O.A., Anantrasirichai, N., Achim, A.M and Adams, B.A (2020). [River Planform Extraction From High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification](https://ieeexplore.ieee.org/abstract/document/9163087). *IEEE Transactions on Geoscience and Remote Sensing*. doi: 10.1109/TGRS.2020.3011209.
+* Adams, B.A, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectionically active landscapes. *Science Advances*.
 
 ## Volcanic geomorpholohy
 
@@ -45,7 +45,7 @@ Blah.
 
 ### Publications on alpine glaciation
 * Adams, B.A., and Ehlers, T.A. (2018).
-* Adams, B.A., and Ehlers, T.A. (2017). Deciphering topographic signals of glaciation and rock uplift in an active orogen: a case study from the Olympic Mountains, USA. Earth Surface Processes and Landforms. doi:10.1002/esp.4120
+* Adams, B.A., and Ehlers, T.A. (2017). [Deciphering topographic signals of glaciation and rock uplift in an active orogen: a case study from the Olympic Mountains, USA]. *Earth Surface Processes and Landforms*. doi:10.1002/esp.4120
 
 ## Landscape evolution
 
