@@ -10,8 +10,8 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "Photo: B.A. Adams"
-excerpt: Research at the interface of the atmosphere and lithosphere, in the physical and digital.<br />
+  caption: "Over looking the Olympic Mountains from the summit of Mount Olympus, Washington, USA."
+excerpt: Research at the interface of the atmosphere and lithosphere, in the physical and digital.
 #         <small>blah</small>
 ---
 
