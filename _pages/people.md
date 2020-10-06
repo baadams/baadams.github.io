@@ -5,7 +5,7 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/chortens2.jpg
+  overlay_image: assets/images/chortens3.jpg
   caption: "The 108 chortens of Dochu La, Bhutan. *Photo: B. A. Adams*"
 excerpt: "Research group memebers"
 
