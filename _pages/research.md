@@ -46,13 +46,14 @@ Blah
 Blah.
 
 ### Publications on alpine glaciation
-* Adams, B.A., and Ehlers, T.A. (2018). [Tectonic controls of Holocene erosion in a glaciated orogen](https://esurf.copernicus.org/articles/6/595/2018/). *Earth Surfaces Dynamics*, 6, 595–610. doi.org/10.5194/esurf-6-595-2018
+* Adams, B.A., and Ehlers, T.A. (2018). [Tectonic controls of Holocene erosion in a glaciated orogen](https://esurf.copernicus.org/articles/6/595/2018/). *Earth Surface Dynamics*, 6, 595–610. doi.org/10.5194/esurf-6-595-2018
 * Adams, B.A., and Ehlers, T.A. (2017). [Deciphering topographic signals of glaciation and rock uplift in an active orogen: a case study from the Olympic Mountains, USA](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4120). *Earth Surface Processes and Landforms*, 42, 1680-1692. doi:10.1002/esp.4120
 
 ## Landscape evolution
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
-We can test 
+
+![LEM_vid](/assets/images/topo.avi)
 
 ### Publications on landscape evolution
 * Adams, B.A., Whipple, K.X., Hodges, K.V., and Heimsath, A.M. (2016). [In-situ development of high-elevation, low-relief landscapes via duplex deformation in the Eastern Himalayan hinterland, Bhutan](https://research-information.bris.ac.uk/files/123164553/Adams_etal_2016.pdf). *Journal of Geophysical Research Earth Surface*, 121, 294–319. doi:10.1002/2015JF003508
