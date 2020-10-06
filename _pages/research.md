@@ -22,14 +22,14 @@ excerpt: "River dynamics<br/>
 
 <img align="right" src="/assets/images/cycle_5.png" alt="Evolve" width="400px" >
 
-Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults, and precipitation.
-Some of us work more in the lab, some in the field, others synthesize new landscapes.
+Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults, and precipitation.<br/>
+Some of us work more in the lab, some in the field, others in the digital.<br/><br/><br/><br/><br/><br/>
 
 ## River dynamics
 
 How do rivers adjust their width along their trace? How do river incision rates change with changing rainfall and what does this do to topographic relief? How much does rock type influence erosion rates and relief? These are just some of the questions that we are exploring regarding river dynamics.
 
-<img align="middle" src="/assets/images/smart_rivers.png" alt="River" width="750px"> <br/>
+<img align="middle" src="/assets/images/smart_rivers.png" alt="River" width="700px"> <br/>
 *Using computer vision to find river channels in synthetic aperature radar (SAR) data.*
 
 ### Publications on river dynamics
@@ -46,8 +46,8 @@ Blah
 Blah.
 
 ### Publications on alpine glaciation
-* Adams, B.A., and Ehlers, T.A. (2018).
-* Adams, B.A., and Ehlers, T.A. (2017). [Deciphering topographic signals of glaciation and rock uplift in an active orogen: a case study from the Olympic Mountains, USA]. *Earth Surface Processes and Landforms*. doi:10.1002/esp.4120
+* Adams, B.A., and Ehlers, T.A. (2018). [Tectonic controls of Holocene erosion in a glaciated orogen](https://esurf.copernicus.org/articles/6/595/2018/). *Earth Surfaces Dynamics*, 6, 595–610. doi.org/10.5194/esurf-6-595-2018
+* Adams, B.A., and Ehlers, T.A. (2017). [Deciphering topographic signals of glaciation and rock uplift in an active orogen: a case study from the Olympic Mountains, USA](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4120). *Earth Surface Processes and Landforms*, 42, 1680-1692. doi:10.1002/esp.4120
 
 ## Landscape evolution
 
