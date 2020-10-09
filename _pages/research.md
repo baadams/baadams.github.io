@@ -53,7 +53,7 @@ Blah.
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
 
-![LEM](/assets/images/topo.mp4)
+![LEM](/assets/images/topo_big.mp4)
 
 ### Publications on landscape evolution
 * Adams, B.A., Whipple, K.X., Hodges, K.V., and Heimsath, A.M. (2016). [In-situ development of high-elevation, low-relief landscapes via duplex deformation in the Eastern Himalayan hinterland, Bhutan](https://research-information.bris.ac.uk/files/123164553/Adams_etal_2016.pdf). *Journal of Geophysical Research Earth Surface*, 121, 294–319. doi:10.1002/2015JF003508
