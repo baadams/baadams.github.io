@@ -58,10 +58,7 @@ Large low-gradient areas formed at elevations where alpine glaciers widened and 
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
 
-<video width="700px" autoplay loop muted>
-  <source src="/assets/images/topo_big.mp4" type="video/mp4">
-</video>
-*We use many lanscape evolution model from the tried and true, to the new and experiemental, to better understand the influences of forcing factors such as rock uplift rate (see example here).*
+<video width="700px" autoplay loop muted> <source src="/assets/images/topo_big.mp4" type="video/mp4"> </video> *We use many lanscape evolution model from the tried and true, to the new and experiemental, to better understand the influences of forcing factors such as rock uplift rate (see example here).*
 
 ### Publications on landscape evolution
 * Adams, B.A., Whipple, K.X., Hodges, K.V., and Heimsath, A.M. (2016). [In-situ development of high-elevation, low-relief landscapes via duplex deformation in the Eastern Himalayan hinterland, Bhutan](https://research-information.bris.ac.uk/files/123164553/Adams_etal_2016.pdf). *Journal of Geophysical Research Earth Surface*, 121, 294–319. doi:10.1002/2015JF003508
