@@ -39,7 +39,10 @@ How do rivers adjust their width along their trace? How do river incision rates 
 
 ## Volcanic geomorpholohy
 
-Blah
+This research is still in its infancy, but spinning up quickly. This Royal Society funded project
+
+![volc](/assets/images/BAdams_fig.png)
+*caption*
 
 ## Alpine glaciation
 
@@ -48,7 +51,6 @@ Glaciers have imprinted their preferred geometry on a landscape where erosion by
 Large low-gradient areas formed at elevations where alpine glaciers widened and deepened valleys. This implies a strong Plio-Pleistocene glacial climate control on the topography in some regions. However, the broad relief structure of the many ranges and the broad pattern in erosion rates appears to still record the regional rock uplift signal. Where have glaciers reset landscapes, and where have they just been window dressing?
 
 ![glacial](/assets/images/figure_8.png) 
-
 *Hypsometry of glaciated basins is built on the foundation of channel relief. As such, slope-area analysis is as much an important tool for understanding relief controlling processes in mixed glacial/fluvial settings as in purely fluvial settings.*
 
 ### Publications on alpine glaciation
