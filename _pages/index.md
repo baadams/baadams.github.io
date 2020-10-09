@@ -21,9 +21,6 @@ Our research group takes a quantitative and multidisciplinary approach to examin
 
 By integrating in-situ field observations with geochemical analyses, multi-modal remote sensing, machine learning, and numerical modelling, our research seeks to predict long-term (million-year) landscape responses to perturbations and short-term (decadal) impacts on land use and geologic hazards. 
 
-# Come as you are
-
-I am a mut from the US, born into a working class family. I am an immigrant citizen of nowhere who goes where the good ideas take me. Academia can be a pretty inhospitable place for many, but we can work to change that. If that resonantes with you and you want to do some tectonic gemorphology, let me know.
 
 # Updates and News
 ### August 2020
