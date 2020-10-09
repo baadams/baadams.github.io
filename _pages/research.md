@@ -43,7 +43,12 @@ Blah
 
 ## Alpine glaciation
 
-Blah.
+Glaciers have imprinted their preferred geometry on a landscape where erosion by fast-moving glaciers can outpace erosion by rivers and in some cases rock uplift. Therefore, modern topography integrates the effects of long-lived rock uplift, climate variation, and post-glacial landscape adjustment. 
+
+Large low-gradient areas formed at elevations where alpine glaciers widened and deepened valleys. This implies a strong Plio-Pleistocene glacial climate control on the topography in some regions. However, the broad relief structure of the many ranges and the broad pattern in erosion rates appears to still record the regional rock uplift signal. Where have glaciers reset landscapes, and where have they just been window dressing?
+
+<img align="middle" src="/assets/images/figure_8.png" alt="glacier" width="500px"> <br/>
+*Hypsometry of glaciated basins is built on the foundation of channel relief. As such, slope-area analysis is as much an important tool for understanding relief controlling processes in mixed glacial/fluvial settings as in purely fluvial settings.*
 
 ### Publications on alpine glaciation
 * Adams, B.A., and Ehlers, T.A. (2018). [Tectonic controls of Holocene erosion in a glaciated orogen](https://esurf.copernicus.org/articles/6/595/2018/). *Earth Surface Dynamics*, 6, 595–610. doi.org/10.5194/esurf-6-595-2018
@@ -53,7 +58,7 @@ Blah.
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
 
-<video width="700" autoplay loop muted>
+<video width="700px" autoplay loop muted>
   <source src="/assets/images/topo_big.mp4" type="video/mp4">
 </video>
 *We use many lanscape evolution model from the tried and true, to the new and experiemental, to better understand the influences of forcing factors such as rock uplift rate (see example here).*
