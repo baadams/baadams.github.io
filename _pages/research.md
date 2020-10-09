@@ -53,8 +53,8 @@ Blah.
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
 
-<video controls autoplay loop>
-  <source src="/assets/images/topo_big.mp4" type="video/mp4" width="600">
+<video width="600" autoplay loop muted>
+  <source src="/assets/images/topo_big.mp4" type="video/mp4">
 </video>
 
 ### Publications on landscape evolution
