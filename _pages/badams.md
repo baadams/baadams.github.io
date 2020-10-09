@@ -4,7 +4,7 @@ layout: single
 permalink: /people/badams/
 
 # Includes author profile in sidebar
-author: Byron Adams
+author: Byron A. Adams
 author_profile: true
 
 classes: wide
