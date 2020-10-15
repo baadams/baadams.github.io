@@ -44,7 +44,7 @@ How do rivers adjust their width along their trace? How do river incision rates 
 This research is still in its infancy, but is spinning up quickly. This Royal Society funded research revolves around the evolution of river and hillslope processes in volcanic landscapes. This approach has much to offer from a better understanding of the long-term impacts of volcanic processes on the growth of mountain ranges to the shorter- medium-term post eruption hazards.
 
 <img align="left" src="/assets/images/BAdams_fig.png" alt="volc" width="750px"> <br/>
-*An example of how volcanic deposits can reorganize drainage networks. Output from a landscape evolution model.* <br/><br/><br/>
+*An example of how volcanic deposits can reorganize drainage networks. Output from a landscape evolution model.* <br/><br/><br/><br/><br/>
 
 ## Alpine glaciation
 
