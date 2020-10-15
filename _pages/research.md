@@ -11,7 +11,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: 
-  caption: "Blah. "
+  caption: "Maps of river channel and hillslope steepness from the Olympic Mountains.[From Adams and Ehlers (2017).](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.4120)"
 excerpt: "River dynamics<br/>
           Volcanic geomorphology<br/>
           Alpine glaciation<br/>
@@ -22,8 +22,9 @@ excerpt: "River dynamics<br/>
 
 <img align="right" src="/assets/images/cycle_5.png" alt="Evolve" width="400px" >
 
-Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults, and precipitation.<br/>
-Some of us work more in the lab, some in the field, others in the digital.<br/><br/><br/><br/><br/><br/>
+Our research connects the lithosphere to the atmosphere through the interactions of rivers, glaciers, volcanoes, faults, and precipitation. We rely on a broad set of tools including topographic analysis, geo- and thermochronology, field mapping, remotely sensed data analysis, geochemistry, thermo-kinematic modeling, landscape evolution modeling, and physical experiments.
+
+Some of us work more in the lab, some in the field, others in the digital.
 
 ## River dynamics
 
