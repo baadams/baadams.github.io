@@ -31,7 +31,7 @@ Some of us work more in the lab, some in the field, others in the digital.
 How do rivers adjust their width along their trace? How do river incision rates change with varying rainfall and what does this do to topographic relief? How much does rock type influence erosion rates and relief? These are just some of the questions that we are exploring regarding river dynamics.
 
 <img align="middle" src="/assets/images/smart_rivers.png" alt="River" width="750px"> <br/>
-*Using computer vision to find river channels in synthetic aperature radar (SAR) data.*
+*Using computer vision to find river channels in synthetic aperature radar (SAR) data.*<br/>
 *From left to right - visible imagery, SAR imagery, segmented image using super pixels, final river mask.*
 
 ### Publications on river dynamics
@@ -44,7 +44,7 @@ How do rivers adjust their width along their trace? How do river incision rates 
 This research is still in its infancy, but is spinning up quickly. This Royal Society funded research revolves around the evolution of river and hillslope processes in volcanic landscapes. This approach has much to offer from a better understanding of the long-term impacts of volcanic processes on the growth of mountain ranges to the shorter- medium-term post eruption hazards.
 
 <img align="left" src="/assets/images/BAdams_fig.png" alt="volc" width="750px"> <br/>
-*An example of how volcanic deposits can reorganize drainage networks. Output from a landscape evolution model.*
+*An example of how volcanic deposits can reorganize drainage networks. Output from a landscape evolution model.* <br/>
 
 ## Alpine glaciation
 
