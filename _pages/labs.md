@@ -19,8 +19,4 @@ excerpt: "Mineral separation<br/>
 
 # The Tombola is coming...
 
-<video width="650px" autoplay loop muted> 
-  <source src="/assets/images/6V_film_3.gif" type="video/gif"> 
-</video> 
-##stuff
 ![tom](/assets/images/6V_film_3.gif)
