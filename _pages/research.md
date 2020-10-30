@@ -37,7 +37,7 @@ How do rivers adjust their width along their trace? How do river incision rates 
 ### Publications on river dynamics
 
 * Pappas, O.A., Anantrasirichai, N., Achim, A.M and Adams, B.A (2020). [River Planform Extraction From High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification](https://eartharxiv.org/repository/view/1746/). *IEEE Transactions on Geoscience and Remote Sensing*. doi: 10.1109/TGRS.2020.3011209.
-* Adams, B.A, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectionically active landscapes. *Science Advances*.
+* Adams, B.A, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). [Climate controls on erosion in tectionically active landscapes](https://advances.sciencemag.org/content/6/42/eaaz3166). *Science Advances*, 6, eaaz3166. doi: 10.1126/sciadv.aaz3166
 
 ## Volcanic geomorphology
 
