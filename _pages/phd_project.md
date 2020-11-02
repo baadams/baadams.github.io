@@ -16,7 +16,7 @@ excerpt: "Looking for a PhD project in the UK?<br/>
           Consider applying for one of the NERC DTP projects that I am involved with."
 ---
 
-# FAQ
+# Frequently Asked Questions
 
 ### Q: So, what is this project?
 A: See descriptions below. These are [projects](http://www.bris.ac.uk/earthsciences/courses/postgraduate/phd-research.html) that I have proposed for students that will be funded through the Natural Environment Research Council (NERC) Greater Western 4 (GW4+) Doctoral Training Program (DTP).
