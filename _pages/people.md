@@ -75,6 +75,10 @@ undergrads:
 
 {% include feature_row id="researchers" %}
 
+# Postgraduate Students
+
+{% include feature_row id="postgrads" %}
+
 # Undergraduate Students
 
 {% include feature_row id="undergrads" %}
