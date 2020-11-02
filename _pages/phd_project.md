@@ -1,7 +1,7 @@
 ---
 title: "PhD Oportunities"
 layout: splash
-permalink: /phd_projects/
+permalink: /phd_project/
 author_profile: false
 classes: wide
 header:
