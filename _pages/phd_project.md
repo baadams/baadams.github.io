@@ -30,4 +30,4 @@ A: You need to apply through the doctoral training program (DTP). Follow this [l
 
 ### Q: Am I elligible?
 
-A: I am affraid I am not able to answer this question (it is a bit complicated), but I encourage anyone that is interested to visit this [link](https://www.nercgw4plus.ac.uk/apply) and reach out to the NERC GW4+ DTP if you have any questions.
+A: I am afraid I am not able to answer this question (it is a bit complicated), but I encourage anyone that is interested to visit this [link](https://www.nercgw4plus.ac.uk/apply) and reach out to the NERC GW4+ DTP if you have any questions.
