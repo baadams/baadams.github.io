@@ -41,7 +41,7 @@ postgrads:
   - image_path: /assets/images/Joe_Shaw.jpg
     alt: "Joe Shaw"
     title: "Joe Shaw"
-    excerpt: "**PhD Student**<br/>
+    excerpt: "**PhD Student (Co-Advisor, Primary Advisor [Dr Frances Cooper](http://www.bristol.ac.uk/earthsciences/people/frances-j-cooper/index.html))**<br/>
               MSci 2016 University of Manchester
               "
     url: "http://www.bristol.ac.uk/earthsciences/people/joe-m-shaw/index.html"
