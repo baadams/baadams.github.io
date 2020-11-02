@@ -23,5 +23,11 @@ By integrating in-situ field observations with geochemical analyses, multi-modal
 
 
 # Updates and News
+### November
+We are looking for a new potential PhD student! 
+For more information about the project and how to apply go to this [page].()
+### October 2020
+Byron publishes a paper in *Science Advances* illustrating the influence of rainfall on erosion and relief in rugged terrains. Check it out here: [Climate controls on erosion in tectonically active landscapes](https://advances.sciencemag.org/content/6/42/eaaz3166).
+For a plain language summary please see the University of Bristol's [press release.](http://www.bristol.ac.uk/news/2020/october/rain-moves-mountains.html)
 ### August 2020
-Odysseas publishes his first paper on unsupervised detection of river networks from snythetic aperature radar (SAR) data using computer vision. Check it out here: [IEEE Transactioons on Geoscience and Remote Sensing](https://bit.ly/30MT145)
+Odysseas publishes his first paper on unsupervised detection of river networks from snythetic aperature radar (SAR) data using computer vision. Check it out here: [IEEE Transactioons on Geoscience and Remote Sensing](https://eartharxiv.org/repository/view/1746/)
