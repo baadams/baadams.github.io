@@ -37,6 +37,17 @@ researchers:
     btn_label: "About"
     btn_class: "btn--inverse"
 
+postgrads:
+  - image_path: /assets/images/Joe_Shaw.jpg
+    alt: "Joe Shaw"
+    title: "Joe Shaw"
+    excerpt: "**PhD Student**<br/>
+              MSci 2016 University of Manchester
+              "
+    url: "http://www.bristol.ac.uk/earthsciences/people/joe-m-shaw/index.html"
+    btn_label: "About"
+    btn_class: "btn--inverse"
+    
 undergrads:
   - image_path: /assets/images/blank.png
     alt: "Celmentine Weash"
