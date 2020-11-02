@@ -12,7 +12,7 @@ header:
   #  - label: "Get started"
   #    url: 
   caption: "Blah."
-excerpt: "Looking for a PhD project in the UK?<\br>
+excerpt: "Looking for a PhD project in the UK?<br/>
           Consider applying for my NERC DTP project."
 ---
 
