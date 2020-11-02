@@ -25,7 +25,7 @@ By integrating in-situ field observations with geochemical analyses, multi-modal
 # Updates and News
 ### November
 We are looking for a new potential PhD student! 
-For more information about the project and how to apply go to this [page].()
+For more information about the project and how to apply go to this [page].(https://baadams.github.io/phd_project/)
 ### October 2020
 Byron publishes a paper in *Science Advances* illustrating the influence of rainfall on erosion and relief in rugged terrains. Check it out here: [Climate controls on erosion in tectonically active landscapes](https://advances.sciencemag.org/content/6/42/eaaz3166).
 For a plain language summary please see the University of Bristol's [press release.](http://www.bristol.ac.uk/news/2020/october/rain-moves-mountains.html)
