@@ -12,7 +12,7 @@ excerpt: "Research group memebers"
 #intro:
 
 staff:
-  - image_path: /assets/images/badams2.jpg
+  - image_path: /assets/images/Byron_new.png
     alt: "Byron A. Adams"
     title: "Byron A. Adams"
     excerpt: "**Royal Society Dorothy Hodgkin Fellow**<br/>
