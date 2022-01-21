@@ -23,9 +23,9 @@ excerpt: "Looking for am exciting new paper to read?<br/>
 
 [18] *Shaw, J.M., Evenstar, L., Cooper, F.J., __Adams, B.A.__, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
 
-[17] **Adams, B.A.**, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166 [(Article)] (https://www.science.org/doi/10.1126/sciadv.aaz3166)[(Github)](https://github.com/baadams/raindance)
+[17] **Adams, B.A.**, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166. [(Article)](https://www.science.org/doi/10.1126/sciadv.aaz3166)[(Github)](https://github.com/baadams/raindance)
 
-[16] *Pappas, O.A., Anantrasirichai, N., Achim, A.M. and **Adams, B.A.** (2020). River Planform Extraction from High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification. IEEE Transactions on Geoscience and Remote Sensing, 59, 3942-3955. [(Article)](https://ieeexplore.ieee.org/document/9163087) [(Preprint)](https://eartharxiv.org/repository/view/1746/)
+[16] *Pappas, O.A., Anantrasirichai, N., Achim, A.M. and **Adams, B.A.** (2020). River Planform Extraction from High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification. IEEE Transactions on Geoscience and Remote Sensing, 59, 3942-3955. doi: 10.1109/TGRS.2020.3011209 [(Article)](https://ieeexplore.ieee.org/document/9163087) [(Preprint)](https://eartharxiv.org/repository/view/1746/)
 
 [15] Wedmore, L.N., Williams, J.N., Biggs, J., Fagereng, Å., Mphepo, F., Dulanya, Z., James Willoughby, J., Mdala, H. and **Adams, B.A.** (2020). Structural inheritance and border fault reactivation during active early-stage rifting along the Thyolo fault, Malawi. Journal of Structural Geology, 139, 104097. [(Article)][(Preprint)]
 
