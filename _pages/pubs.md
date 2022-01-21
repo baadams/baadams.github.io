@@ -21,7 +21,7 @@ excerpt: "Looking for am exciting new paper to read?<br/>
 
 [19] **Adams, B.A.** and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), Treatise on Geomorphology, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [(Article)](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)
 
-[18] *****Shaw, J.M., Evenstar, L., Cooper, F.J., **Adams, B.A.**, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
+[18] *****Shaw, J.M., Evenstar, L., Cooper, F.J., __Adams, B.A.__, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
 
 [17] **Adams, B.A.**, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166 [(Article)] (https://www.science.org/doi/10.1126/sciadv.aaz3166)[(Github)](https://github.com/baadams/raindance)
 
