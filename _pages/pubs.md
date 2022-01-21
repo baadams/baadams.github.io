@@ -16,20 +16,20 @@ excerpt: "Looking for am exciting new paper to read?<br/>
           Look no further. "
 ---
 
-### Published or Accepted Peer-Reviewed Papers
+## Published or Accepted Peer-Reviewed Papers
 ### *Denotes post-doctoral or student mentee
 
 [19] **Adams, B.A.** and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), Treatise on Geomorphology, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [(Article)](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)
 
-[18] __*__Shaw, J.M., Evenstar, L., Cooper, F.J., **Adams, B.A.**, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
+[18] _*_Shaw, J.M., Evenstar, L., Cooper, F.J., **Adams, B.A.**, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
 
-[17] Adams, B.A., Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166 [(Article)] (https://www.science.org/doi/10.1126/sciadv.aaz3166)
+[17] **Adams, B.A.**, Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166 [(Article)] (https://www.science.org/doi/10.1126/sciadv.aaz3166)[(Github)](https://github.com/baadams/raindance)
 
-[16] *Pappas, O.A., Anantrasirichai, N., Achim, A.M. and Adams, B.A. (2020). River Planform Extraction from High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification. IEEE Transactions on Geoscience and Remote Sensing, 59, 3942-3955.
+[16] _*_Pappas, O.A., Anantrasirichai, N., Achim, A.M. and **Adams, B.A.** (2020). River Planform Extraction from High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification. IEEE Transactions on Geoscience and Remote Sensing, 59, 3942-3955.
 
-[15] Wedmore, L.N., Williams, J.N., Biggs, J., Fagereng, Å., Mphepo, F., Dulanya, Z., James Willoughby, J., Mdala, H. and Adams, B.A. (2020). Structural inheritance and border fault reactivation during active early-stage rifting along the Thyolo fault, Malawi. Journal of Structural Geology, 139, 104097. 
+[15] Wedmore, L.N., Williams, J.N., Biggs, J., Fagereng, Å., Mphepo, F., Dulanya, Z., James Willoughby, J., Mdala, H. and **Adams, B.A.** (2020). Structural inheritance and border fault reactivation during active early-stage rifting along the Thyolo fault, Malawi. Journal of Structural Geology, 139, 104097. [(Article)][(Preprint)]
 
-[14] Michel, L., Glotzbach, C., Falkowski, S., Adams, B.A., Ehlers, T. A. (2019). How steady are steady-state mountain belts? – a re-examination of the Olympic Mountains (Washington State, USA), Earth Surface Dynamics, 7, 275–299.
+[14] Michel, L., Glotzbach, C., Falkowski, S., Adams, B.A., Ehlers, T. A. (2019). How steady are steady-state mountain belts? – a re-examination of the Olympic Mountains (Washington State, USA), Earth Surface Dynamics, 7, 275–299. [(Article)]
 
 [13] Adams, B.A., Ehlers, T.A. (2018). Tectonic controls of Holocene erosion in a glaciated orogen. Earth Surface Dynamics, 6, 595–610.
 
