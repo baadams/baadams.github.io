@@ -1,10 +1,10 @@
 # main links
 main:
-   - title: "**PhD Projects**"
-     url: /phd_project/
    - title: "People"
      url: /people/
    - title: "Research"
      url: /research/
    - title: "Laboratories"
      url: /labs/
+   - title: "Publications"
+     url: /pubs/
