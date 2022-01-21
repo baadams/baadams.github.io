@@ -20,9 +20,7 @@ excerpt: "Looking for am exciting new paper to read?<br/>
 ### *Denotes post-doctoral or student mentee
 
 [19] **Adams, B.A.** and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), Treatise on Geomorphology, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [(Article)](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)
-
 Press: [University of Bristol Press Release](https://www.bristol.ac.uk/news/2020/october/rain-moves-mountains.html), [BBC News Round](https://www.bbc.co.uk/newsround/54575909), [COSMOS](https://cosmosmagazine.com/earth/earth-sciences/rain-really-can-move-mountains/), [SciShow](https://www.youtube.com/watch?v=n6IDdPhYw0Y)
-
 Invited lay-summary: [The Science Breaker](thesciencebreaker.org/breaks/earth-space/how-rain-sculpts-mountains)
 
 [18] *Shaw, J.M., Evenstar, L., Cooper, F.J., **Adams, B.A.**, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
