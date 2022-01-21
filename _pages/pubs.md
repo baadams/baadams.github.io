@@ -22,13 +22,12 @@ excerpt: "Looking for am exciting new paper to read?<br/>
 A: See descriptions below. These are [projects](http://www.bris.ac.uk/earthsciences/courses/postgraduate/phd-research.html) that I have proposed for students that will be funded through the Natural Environment Research Council (NERC) Greater Western 4 (GW4+) Doctoral Training Program (DTP).
 
 #### [Project 1](https://baadams.github.io/phd_1/) (Lead Supervisor)
-Game of Stones: Do "harder" rocks build higher mountains?
 
-[19] Adams, B.A. and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), Treatise on Geomorphology, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4.
+[19] Adams, B.A. and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), Treatise on Geomorphology, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [Article](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)
 
-[18] *Shaw, J.M., Evenstar, L., Cooper, F.J., Adams, B.A., Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759.
+[18] *Shaw, J.M., Evenstar, L., Cooper, F.J., Adams, B.A., Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. Geochemistry, Geophysics, Geosystems, 22, e2021GC009759. doi: 10.1029/2021GC009759 [Article](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)
 
-[17] Adams, B.A., Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. 
+[17] Adams, B.A., Whipple, K.X., Forte, A.M., Heimsath, A.M., Hodges, K.V. (2020). Climate controls on erosion in tectonically active landscapes, Science Advances, 6, az3166. doi: 10.1126/sciadv.aaz3166 [Article] (https://www.science.org/doi/10.1126/sciadv.aaz3166)
 
 [16] *Pappas, O.A., Anantrasirichai, N., Achim, A.M. and Adams, B.A. (2020). River Planform Extraction from High-Resolution SAR Images via Generalized Gamma Distribution Superpixel Classification. IEEE Transactions on Geoscience and Remote Sensing, 59, 3942-3955.
 
