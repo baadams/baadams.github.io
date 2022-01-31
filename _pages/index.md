@@ -23,6 +23,8 @@ By integrating in-situ field observations with geochemical analyses, multi-modal
 
 
 # Updates and News
+## January 2022
+New post-doctoral researcher postion at Bristol [check it out!](https://baadams.github.io/pdra/)
 ### December 2021
 Another Royal Society project funded! Game of Stones is happening and I will be advertising for a new postdoc postion soon. Stay tuned...
 ### October 2021
