@@ -1,7 +1,7 @@
 ---
 title: "PDRA Project"
 layout: splash
-permalink: /phd_1/
+permalink: /pdra/
 author_profile: false
 classes: wide
 header:
