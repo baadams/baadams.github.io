@@ -19,7 +19,7 @@ excerpt: "Looking for am exciting new paper to read?<br/>
 ## Published or Accepted Peer-Reviewed Papers
 ### *Denotes post-doctoral or student mentee
 
-[19] **Adams, B.A.** and Hodges, K.V. (2021). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), *Treatise on Geomorphology*, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [(Article)](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)  <img src="/assets/images/red_lock.png" width="10">
+[19] **Adams, B.A.** and Hodges, K.V. (2022). Potential Influences of Middle and Lower Crustal Flow on Landscape Evolution: Insights From the Himalayan-Tibetan Orogen. In: Shroder, J., Owen, L. A. (Eds), *Treatise on Geomorphology*, San Diego: Academic Press. doi: 10.1016/B978-0-12-818234-5.00195-4. [(Article)](https://www.sciencedirect.com/science/article/pii/B9780128182345001954)  <img src="/assets/images/red_lock.png" width="10"> [(Preprint)](assets/Adams_Hodges_accepted.pdf)
 
 [18] * Shaw, J.M., Evenstar, L., Cooper, F.J., **Adams, B.A.**, Boyce, A.J., Hofmann, F., & Farley, K. A. (2021). A rusty record of weathering and groundwater movement in the hyperarid Central Andes. _Geochemistry, Geophysics, Geosystems_, 22, e2021GC009759. doi: 10.1029/2021GC009759. [(Article)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC009759)  <img src="/assets/images/lock.png" width="10">
 
