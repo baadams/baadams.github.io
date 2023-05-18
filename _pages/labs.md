@@ -21,4 +21,6 @@ excerpt: "Mineral separation<br/>
 Stay tuned for new imporvements, projects, and opotunities...
 
 # The infinite flume is coming...
-![tom](/assets/images/IMG_1520.mp4)
+<video width="400px" autoplay loop muted> 
+  <source src="/assets/images/IMG_1520.mp4" type="video/mp4"> 
+</video>
