@@ -13,10 +13,12 @@ header:
   #    url: 
   caption: "Blah."
 excerpt: "Mineral separation<br/>
-          Mineral identification<br/>
+          Cosmogenic nuclide measurement<br/>v
+          Thermochronology<br/>
           Eroding rocks"
 ---
+# I am now part of the [London Geochronology Centre!](http://www.london-geochron.com/)
+Stay tuned for new imporvements, projects, and opotunities...
 
-# The Tombola is coming...
-
-![tom](/assets/images/6V_film_3.gif)
+# The infintie flume is coming...
+![tom](/assets/images/IMG_1520.mp4)
