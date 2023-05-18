@@ -15,7 +15,7 @@ staff:
   - image_path: /assets/images/Byron_new.png
     alt: "Byron A. Adams"
     title: "Byron A. Adams"
-    excerpt: "**Royal Society Dorothy Hodgkin Fellow**<br/>
+    excerpt: "**Royal Society Dorothy Hodgkin Fellow and Assistant Professor**<br/>
               PhD 2014 Arizona State University<br/>
               MS  2007 University of Cincinnati<br/>
               BS  2005 Ball State Univesity
@@ -26,6 +26,17 @@ staff:
     btn_class: "btn--inverse"
 
 researchers:
+  - image_path: /assets/images/jzondervan.jpg
+    alt: "Jesse Zondervan"
+    title: "Jesse Zondervan"
+    excerpt: "**Research Associate**<br/>
+              PhD  2021 University of Plymouth<br/>
+              MSci 2017 Imperial College London
+              "
+    url: "http://www.bristol.ac.uk/earthsciences/people/jesse-zondervan/overview.html"
+    btn_label: "About"
+    btn_class: "btn--inverse"
+    
   - image_path: /assets/images/opappas.jpg
     alt: "Odysseas Pappas"
     title: "Odysseas Pappas"
@@ -38,31 +49,9 @@ researchers:
     btn_class: "btn--inverse"
 
 postgrads:
-  - image_path: /assets/images/Joe_Shaw.jpg
-    alt: "Joe Shaw"
-    title: "Joe Shaw"
-    excerpt: "**PhD Student (Co-Advisor, Primary Advisor [Dr Frances Cooper](http://www.bristol.ac.uk/earthsciences/people/frances-j-cooper/index.html))**<br/>
-              MSci 2016 University of Manchester
-              "
-    url: "http://www.bristol.ac.uk/earthsciences/people/joe-m-shaw/index.html"
-    btn_label: "About"
-    btn_class: "btn--inverse"
     
 undergrads:
-  - image_path: /assets/images/blank.png
-    alt: "Celmentine Weash"
-    title: "Clementine Walsh"
-    excerpt: "**Undergraduate Researcher**<br/>
-              University of Bristol<br/>
-              *Incision and remobilization of volcanic materials*
-              "
-  - image_path: /assets/images/blank.png
-    alt: "Eliana Toro Paz"
-    title: "Eliana Toro Paz"
-    excerpt: "**Undergraduate Researcher**<br/>
-              University of Bristol<br/>
-              *The impact of valley morphology on GLOF hazards*
-              "
+
 ---
 
 
@@ -85,8 +74,20 @@ undergrads:
 
 
 # Former Group Members
+#### Joseph Shaw (2017-2022)
+* **PhD 2022 University of Bristol (Geology)**
+* Relationships between weathering, supergene enrichment and the water table within Central Andean porphyry copper deposits
+* ***Now: Senior Business Analyst at Osborne Clarke***
 
-## Graduate Students
+#### Eliana Toro Paz (2020-2021)
+* **MSci 2021 University of Bristol (Geology)**
+* Using Past Glacial Lake Outburst Floods to Understand Present and Future Flood Hazard in the Punakha Region, Bhutan
+* ***Now: MSc student at the University of Bristol***
+
+#### Clementine Walsh (2020-2021)
+* **MSci 2021 University of Bristol (Geology)**
+* Reconstructing the early Miocene palaeolandscape beneath Oxaya Formation ignimbrites on the Western Andean Slope
+* ***Now: Assistant Flood Risk & Hydrology Consultant at Arcadis***
 
 #### Dan van Helden (2017-2018)
 * **MSc 2018 University of Bristol (Volcanology)**
