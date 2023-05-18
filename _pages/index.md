@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "University of Bristol Tectonic Geomorphology"
+title: "Tectonic Geomorphology"
 permalink: /
 hidden: true
 header:
@@ -23,6 +23,21 @@ By integrating in-situ field observations with geochemical analyses, multi-modal
 
 
 # Updates and News
+## May 2023
+We have a fully funded PhD studentship waiting for someone intertesting in geochronology and surface processes. [Check it out!]()
+## April 2023
+Jesse is convening and presenting at EGU. Be sure to check out his session and his poster!
+## January 2023
+We have moved! We are all really excited to have found a new home in the Department of Earth Sciences at the University of College London. So many new great collaborators and facilities. Please wtch this space for new oportuniteis to work together.
+## December 2022
+[Jesse](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1082669) and [Byron](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1149886) are presenting at AGU. Please come get an update on what we are working on whether you are in Chi-town or sitting at home (see links).
+## August 2022
+<img align="left" src="/assets/images/JB.png" alt="stone" width="400px" >
+Jesse and Byron head into the field. Who will carry the biggest stone?
+## July 2022
+Eli is back! [Elianna Toro Paz]() can't get enough surface processes and has returned to do her MSc in using detriral techniques to find ore bodies.
+## June 2022 
+Dr Jesse Zondervan joins the the group to see if he can win the Game of Stones! Find out more about Jesse [here.](https://www.jesserubenzondervan.com/)
 ## January 2022
 New post-doctoral researcher postion at Bristol [check it out!](https://baadams.github.io/pdra/)
 ### December 2021
