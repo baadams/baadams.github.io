@@ -61,7 +61,7 @@ Glaciers have imprinted their preferred geometry on a landscape where erosion by
 
 The present is the key to the past... and the future. By better understanding the fundamental processes that govern erosion, sedimentation, and fault activity re can reverse engineer and forward model the history of Earth's surface. We use field observations, remote sensing data, and laboratory techniques (physical and chemical) to provide critical boundary conditions on our conceptual and numerical models. With these models we can look into the past and the future. 
 
-<video width="700px" autoplay loop muted> 
+<video width="300px" autoplay loop muted> 
   <source src="/assets/images/topo_big.mp4" type="video/mp4"> 
 </video> 
 *We use many lanscape evolution models - from the tried and true, to the new and experiemental, to better understand the influences of forcing factors such as rock uplift rate (see example here).*
