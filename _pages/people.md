@@ -33,7 +33,7 @@ researchers:
               PhD  2021 University of Plymouth<br/>
               MSci 2017 Imperial College London
               "
-    url: "http://www.bristol.ac.uk/earthsciences/people/jesse-zondervan/overview.html"
+    url: "https://www.jesserubenzondervan.com/home"
     btn_label: "About"
     btn_class: "btn--inverse"
     
@@ -44,12 +44,21 @@ researchers:
               PhD  2017 University of Bristol<br/>
               MEng 2012 University of Bristol
               "
-    url: "http://www.bristol.ac.uk/earthsciences/people/odysseas-a-pappas/overview.html"
+    url: "https://research-information.bris.ac.uk/en/persons/odysseas-pappas"
     btn_label: "About"
     btn_class: "btn--inverse"
 
 postgrads:
-    
+  - image_path: /assets/images/blank.png
+    alt: "Eliana Toro Paz"
+    title: "Eliana Toro Paz"
+    excerpt: "**MSc Student**<br/>
+              MSci  2021 University of Bristol
+              "
+    url: "https://research-information.bris.ac.uk/en/persons/eliana-f-e-toro-paz"
+    btn_label: "About"
+    btn_class: "btn--inverse"
+
 undergrads:
 
 ---
