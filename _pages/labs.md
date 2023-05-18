@@ -13,7 +13,7 @@ header:
   #    url: 
   caption: "Blah."
 excerpt: "Mineral separation<br/>
-          Cosmogenic nuclide measurement<br/>v
+          Cosmogenic nuclide measurement<br/>
           Thermochronology<br/>
           Eroding rocks"
 ---
