@@ -18,9 +18,9 @@ excerpt: "Mineral separation<br/>
           Eroding rocks"
 ---
 # I am now part of the [London Geochronology Centre!](http://www.london-geochron.com/)
-Stay tuned for new imporvements, projects, and opotunities...
+Stay tuned for new upgrades, projects, and opportunities...
 
 # The infinite flume is coming...
-<video width="400px" autoplay loop muted> 
+<video width="300px" autoplay loop muted> 
   <source src="/assets/images/IMG_1520.mp4" type="video/mp4"> 
 </video>
