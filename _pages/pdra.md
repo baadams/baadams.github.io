@@ -18,7 +18,7 @@ excerpt: "Looking for a funded PhD project in the UK?<br/>
 ![phd](/assets/images/phd_twitter_ad.png)
 
 # PhD position available with me at [University College London Department of Earth Sciences](https://www.ucl.ac.uk/earth-sciences/ucl-earth-sciences)
-## Funded by the  <a href=”[https://www.google.com](https://royalsociety.org/)“><center><img src="/assets/images/RS_logo.jpg" alt="logo" width="100"/></center></a>
+## Funded by the  <a href=”[https://royalsociety.org/]“><img src="/assets/images/RS_logo.jpg" alt="logo" width="100"/></a>
 
 **Supervisors: Dr Byron Adams** (UCL, Department of Earth Sciences), **Dr Matt Fox** (UCL, Department of Earth Sciences), **Prof Fin Stuart** (Glasgow University, SUERC)
 
