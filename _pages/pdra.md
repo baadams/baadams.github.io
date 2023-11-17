@@ -17,7 +17,8 @@ excerpt: "Looking for a funded PhD project in the UK?<br/>
 ---
 ![phd](/assets/images/phd_twitter_ad.png)
 
-# PhD position available with me at [University College London Department of Earth Sciences](https://www.ucl.ac.uk/earth-sciences/ucl-earth-sciences)
+## PhD position available with me at <a href="[https://royalsociety.org/](https://www.ucl.ac.uk/earth-sciences/ucl-earth-sciences)"><img src="/assets/images/UCL_ES_logo.png" alt="logo" width="100"/></a>
+
 ## Funded by the  <a href="https://royalsociety.org/"><img src="/assets/images/RS_logo.jpg" alt="logo" width="100"/></a>
 
 **Supervisors: Dr Byron Adams** (UCL, Department of Earth Sciences), **Dr Matt Fox** (UCL, Department of Earth Sciences), **Prof Fin Stuart** (Glasgow University, SUERC)
@@ -25,6 +26,7 @@ excerpt: "Looking for a funded PhD project in the UK?<br/>
 **For more details contact: Byron Adams (byron.adams@ucl.ac.uk)**
 
 **Deadline for application: 4th January 2024 (including references)**
+
 **How to apply: [Application through UCL graduate school portal](https://evision.ucl.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=RRDEARSING01&code2=0035)**
 
 **Start date: No later than the 1st October 2024**
