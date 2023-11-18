@@ -22,8 +22,11 @@ excerpt: "Looking for a funded PhD project in the UK?<br/>
 ## Funded by the  <a href="https://royalsociety.org/"><img src="/assets/images/RS_logo.jpg" alt="logo" width="100"/></a>
 
 **Supervisors:** 
+
 **Dr Byron Adams** (UCL, Department of Earth Sciences) 
+
 **Dr Matt Fox** (UCL, Department of Earth Sciences) 
+
 **Prof Fin Stuart** (Glasgow University, Scottish Universities Environmental Research Centre)
 
 **For more details contact: Byron Adams (byron.adams@ucl.ac.uk)**
