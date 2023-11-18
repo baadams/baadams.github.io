@@ -17,7 +17,7 @@ excerpt: "Looking for a funded PhD project in the UK?<br/>
 ---
 ![phd](/assets/images/phd_twitter_ad.png)
 
-## PhD position available with me at <a href="[https://royalsociety.org/](https://www.ucl.ac.uk/earth-sciences/ucl-earth-sciences)"><img src="/assets/images/UCL_ES_logo.png" alt="logo" width="100"/></a>
+## PhD position available with me at <a href="https://www.ucl.ac.uk/earth-sciences/ucl-earth-sciences"><img src="/assets/images/UCL_ES_logo.png" alt="logo" width="100"/></a>
 
 ## Funded by the  <a href="https://royalsociety.org/"><img src="/assets/images/RS_logo.jpg" alt="logo" width="100"/></a>
 
