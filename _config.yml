@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Byron A. Adams "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "University of Bristol Tectonic Geomorphology"
+name                     : "University College London Tectonic Geomorphology"
 description              : "Research at the interface of the atmosphere and lithosphere, in the physical and digital"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:byron.adams@bristol.ac.uk"
+      #url: "mailto:byron.adams@ucl.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
